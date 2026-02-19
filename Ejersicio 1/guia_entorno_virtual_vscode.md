@@ -8,7 +8,7 @@
 ## Paso 1 — Abrir carpeta del proyecto
 Abre **Visual Studio Code** → `File > Open Folder` y selecciona tu carpeta.
 
-![Paso 1](assets/imagen_paso1.png)
+![Paso 1]
 
 ---
 
@@ -19,7 +19,7 @@ Terminal > New Terminal
 ```
 Esto abre la consola dentro del proyecto.
 
-![Paso 2](assets/imagen_paso2.png)
+![Paso 2]
 
 ---
 
@@ -56,7 +56,7 @@ Si funciona verás:
 (venv) ruta/proyecto>
 ```
 
-![Paso 4](assets/imagen_paso3.png)
+![Paso 4]
 
 ---
 
