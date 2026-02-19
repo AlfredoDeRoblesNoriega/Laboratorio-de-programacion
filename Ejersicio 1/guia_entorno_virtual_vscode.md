@@ -1,6 +1,7 @@
 # Crear Entorno Virtual en Python con VS Code
 
-> Guía paso a paso — Generado 2026-02-19 14:38
+> Guía paso a paso
+
 
 ---
 
